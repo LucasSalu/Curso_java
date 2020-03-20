@@ -1,0 +1,9 @@
+package entities;
+
+public class Aluno {
+	
+	public String name;
+	public String email;
+    public int quarto;
+
+}

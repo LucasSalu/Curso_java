@@ -1,0 +1,19 @@
+
+public class Matriz {
+        int[][] matriz;
+        
+
+		public Matriz(int[][] matriz) {
+			this.matriz = matriz;
+		}
+        
+        public int baixo(int lin, int col) {
+        	if(matriz.length >= lin+1) {
+        		if (matriz[lin+1].length >= col) {
+        			return matriz[lin+1][col];
+        		}
+        	}
+        	
+        	
+        }
+}

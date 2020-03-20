@@ -1,0 +1,24 @@
+package program;
+
+import entities.Rectangle;
+import java.util.Locale;
+import java.util.Scanner;
+
+public class programa {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+	    Locale.setDefault(Locale.US);
+        
+	    Rectangle triangle = new Rectangle();
+
+	    triangle.heigth = sc.nextDouble();
+	    triangle.width = sc.nextDouble();
+	    
+	    System.out.println(triangle.area());
+	    System.out.println(triangle.diagonal());
+	    System.out.println(triangle.perimetro());
+	    
+	}
+
+}

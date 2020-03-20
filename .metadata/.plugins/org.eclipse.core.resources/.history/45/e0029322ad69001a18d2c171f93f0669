@@ -1,0 +1,16 @@
+
+public class Matriz {
+        int[][] matriz;
+
+		public Matriz(int[][] matriz) {
+			this.matriz = matriz;
+		}
+        
+        public int left(int lin, int col) {
+        	if (matriz[lin][col+1] != 10) {
+        		
+        	}
+        	
+        	
+        }
+}
