@@ -18,16 +18,15 @@ public class Trabalhando_Data {
 		Date x3 = new Date(0L);
 		System.out.println(sdf2.format(x1));
 		System.out.println(sdf2.format(x2));
-		System.out.println(sdf2.format(x3));
+		System.out.println(x3);
 		
 		
 		Date y1 = sdf1.parse("21/03/2020");
 		Date y2 = sdf2.parse("21/03/2020 04:10:50");
-		
-		
-		System.out.println(sdf1.format(y1));
+		System.out.println(y1);
 		System.out.println(sdf2.format(y2));
-		
+		Date a = new Date();
+		System.out.println(sdf2.format(a));
 		
 		
 		
