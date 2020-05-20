@@ -61,12 +61,13 @@
 		<item key="FinalModifier" value="false"/>
 		<item key="SynchronizedModifier" value="false"/>
 		<item key="Comments" value="false"/>
+		<item key="InsertPosition.v2" value="2"/>
 	</section>
 	<section name="GenerateConstructorUsingFieldsSelectionDialog">
 		<item key="OmitCallToSuper" value="false"/>
 	</section>
 	<section name="DialogBounds_GenerateConstructorUsingFieldsSelectionDialog">
-		<item key="DIALOG_X_ORIGIN" value="365"/>
+		<item key="DIALOG_X_ORIGIN" value="173"/>
 		<item key="DIALOG_Y_ORIGIN" value="24"/>
 		<item key="DIALOG_WIDTH" value="517"/>
 		<item key="DIALOG_HEIGHT" value="678"/>

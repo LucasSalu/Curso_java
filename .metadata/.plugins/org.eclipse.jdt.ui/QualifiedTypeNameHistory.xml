@@ -5,14 +5,15 @@
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="entitis.CorrencyConverte"/>
     <fullyQualifiedTypeName name="entities.Product"/>
-    <fullyQualifiedTypeName name="java.util.Locale.Builder"/>
     <fullyQualifiedTypeName name="entities.Aluno"/>
     <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
     <fullyQualifiedTypeName name="java.util.AbstractList"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Locale.Builder"/>
+    <fullyQualifiedTypeName name="ContaEspecial"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
